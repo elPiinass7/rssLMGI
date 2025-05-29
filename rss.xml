@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>RSRevolution - Últimas galerías</title>
-    <link>https://www.rsrevolution.es/galeria.html</link>
+    <title>RS Revolution</title>
+    <link>https://www.rsrevolution.es</link>
     <description>Canal RSS con el resumen principal de la web de RS REVOLUTION.</description>
     <language>es</language>
     <lastBuildDate>Tue, 28 May 2025 13:00:00 +0000</lastBuildDate>
     <ttl>60</ttl>
-
-    <item>
-      <title>Página Principal RS REVOLUTION</title>
-      <link>https://www.rsrevolution.es/</link>
-      <description><![CDATA[¡Bienvenid@ a RS REVOLUTION, tu fotógrafo de confianza!]]></description>
-      <pubDate>Tue, 28 May 2025 10:00:00 +0000</pubDate>
-      <guid>https://www.rsrevolution.es/</guid>
-    </item>
-
     <item>
         <title>Galería - RS REVOLUTION</title>
         <link>https://rsrevolution.es/galeria.html</link>
